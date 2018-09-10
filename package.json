@@ -1,0 +1,19 @@
+{
+  "name": "@npm_lkshamus/sorting-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkshamus/sorting-algorithms.git"
+  },
+  "author": "Laura Shamus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lkshamus/sorting-algorithms/issues"
+  },
+  "homepage": "https://github.com/lkshamus/sorting-algorithms#readme"
+}
